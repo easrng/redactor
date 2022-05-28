@@ -11,3 +11,6 @@ Select some text and click the "Redact" menu item. Where it is probably depends 
 
 ## This doesn't work on some sites, how do I fix it?
 Some sites have security restrictions that make it so the userscript can't load the font. To fix it, install the [Flow Circular](https://easrng.github.io/redactor/FlowCircular-Regular.ttf) font.
+
+## How does it work?
+It's just [a JS library that hasn't been updated since 2015](https://github.com/timdown/rangy) and a [special font](https://danross.co/flow/) in a trenchcoat.
